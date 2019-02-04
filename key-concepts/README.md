@@ -1,6 +1,6 @@
 # Key concepts
 
-## Getting Super Powers
+## Getting Super Powers 1
 
 Becoming a super hero is a fairly straight forward process:
 
