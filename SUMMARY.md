@@ -6,3 +6,4 @@
   * [Infrastructure modules](infrastructure-modules.md)
   * [Compositions](compositions.md)
 * [Code structure](code-structure.md)
+* [All my Terraform resources](resources.md)
