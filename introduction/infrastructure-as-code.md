@@ -1,7 +1,3 @@
----
-description: Presentation of Infrastructure As code
----
-
 # Infrastructure As Code
 
 Among DevOps practices, we often find the **Infrastructure As Code** \(IaC\) principle, which consists in coding the infrastructure provisioning and configuration steps instead of performing them manually.
