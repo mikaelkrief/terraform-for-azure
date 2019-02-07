@@ -24,3 +24,7 @@ description: This page contain all my Terraform resources
 
 * [Rake Terraform](https://github.com/maclennann/rake-terraform)
 
+## Best practice
+
+* Azure & Terraform : [Best practice](https://jamesdld.github.io/terraform/Best-Practice/)
+
