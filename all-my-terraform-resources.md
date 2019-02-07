@@ -18,6 +18,7 @@ description: This page contain all my Terraform resources
 ## Blog posts
 
 * [Terraform Best practices \(GitBook\)](https://www.terraform-best-practices.com/)
+* [Terrafile pattern](http://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/)
 
 ## Tools
 
