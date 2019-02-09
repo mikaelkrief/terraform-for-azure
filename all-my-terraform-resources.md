@@ -28,3 +28,7 @@ description: This page contain all my Terraform resources
 
 * Azure & Terraform : [Best practice](https://jamesdld.github.io/terraform/Best-Practice/)
 
+## Terraform 0.12
+
+* [Sample code of 0.12](https://github.com/hashicorp/terraform-guides/tree/master/infrastructure-as-code/terraform-0.12-examples)
+
