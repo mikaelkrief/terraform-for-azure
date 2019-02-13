@@ -2,7 +2,7 @@
 description: What is Inspec
 ---
 
-# Test Azure infrastructure with Inspec
+# Inspec tests for Azure
 
 With the rapid development of DevOps processes and IaC \(Infrastucture As Code\) tools that are becoming more and more diverse Cloud infrastructures can be deployed and provisioned very quickly and with optimal automation.
 
