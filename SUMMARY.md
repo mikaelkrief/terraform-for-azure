@@ -9,6 +9,6 @@
 * [Inspec tests for Azure](test-azure-infrastructure-with-inspec/README.md)
   * [Basic Azure tests](test-azure-infrastructure-with-inspec/basic-azure-tests.md)
   * [Based on yaml file](test-azure-infrastructure-with-inspec/based-on-yaml-file.md)
-  * [Resources links](test-azure-infrastructure-with-inspec/resources.md)
+  * [Resources links](test-azure-infrastructure-with-inspec/resources-links.md)
 * [All my Terraform resources](all-my-terraform-resources.md)
 
