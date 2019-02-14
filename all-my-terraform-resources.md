@@ -12,8 +12,15 @@ description: This page contain all my Terraform resources
 
 ## Create custom provider
 
-* Video :[How extend the provider list](https://www.youtube.com/watch?v=2BvpqmFpchI)
+* Video :[How extend the provider list](https://www.youtube.com/watch?v=2BvpqmFpchI) / [for every thing](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything)
 * Documentation : [Writing custom provider](https://www.terraform.io/docs/extend/writing-custom-providers.html)
+* schema doc: [https://godoc.org/github.com/hashicorp/terraform/helper/schema](https://godoc.org/github.com/hashicorp/terraform/helper/schema)
+* Blog posts:
+  * [http://blog.jfabre.net/2017/01/22/writing-terraform-provider/](http://blog.jfabre.net/2017/01/22/writing-terraform-provider/)
+  * [https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
+  * [https://medium.com/@steve\_strutt/developing-a-public-terraform-provider-part-2-df66e0d9cbdb](https://medium.com/@steve_strutt/developing-a-public-terraform-provider-part-2-df66e0d9cbdb)
+  * [https://blog.d2si.io/2018/02/23/my-first-terraform-provider/](https://blog.d2si.io/2018/02/23/my-first-terraform-provider/)
+  * 
 
 ## Blog posts
 
