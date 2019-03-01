@@ -4,6 +4,8 @@
 * [Introduction](introduction/README.md)
   * [Infrastructure As Code](introduction/infrastructure-as-code.md)
   * [What is Terraform](introduction/what-is-terraform.md)
+* [Terraform configuration](terraform-configuration/README.md)
+  * [Create Azure Service Principal](terraform-configuration/create-azure-service-principal.md)
 * [Uses cases](uses-cases/README.md)
   * [Execute script in VM](uses-cases/execute-script-in-vm.md)
 * [Inspec tests for Azure](test-azure-infrastructure-with-inspec/README.md)
