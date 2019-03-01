@@ -25,5 +25,7 @@ At the end of this configuration, you will receive the following information fro
 * The Client Secret
 * The Tenant ID
 
+![](../.gitbook/assets/image%20%281%29.png)
+
 This information will allow Terraform to authenticate itself and manipulate resources in an Azure subscription.
 
