@@ -14,6 +14,6 @@
   * [Based on yaml file](test-azure-infrastructure-with-inspec/based-on-yaml-file.md)
   * [Resources links](test-azure-infrastructure-with-inspec/resources-links.md)
 * [Terraform with Ansible](terraform-with-ansible.md)
-* [All my Terraform resources](all-my-terraform-resources.md)
 * [Terraform on Azure Pipeline](terraform-on-azure-pipeline.md)
+* [All my Terraform resources](all-my-terraform-resources.md)
 
