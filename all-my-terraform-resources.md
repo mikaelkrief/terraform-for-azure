@@ -8,7 +8,11 @@ description: This page contain all my Terraform resources
 
 * [Terraform on Azure Documantation](https://docs.microsoft.com/en-us/azure/terraform/)
 * [Samples](https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples)
-* [DevOps Labs : Terraform with Azure DevOps](https://www.azuredevopslabs.com/labs/vstsextend/terraform/)
+
+## Labs and Training
+
+* Azure Citadel: Serie of Lab of Terraform on Azure : [https://azurecitadel.com/automation/terraform/](https://azurecitadel.com/automation/terraform/)
+* DevOps Labs : [Terraform with Azure DevOps](https://www.azuredevopslabs.com/labs/vstsextend/terraform/)
 
 ## Create custom provider
 
@@ -38,4 +42,8 @@ description: This page contain all my Terraform resources
 ## Terraform 0.12
 
 * [Sample code of 0.12](https://github.com/hashicorp/terraform-guides/tree/master/infrastructure-as-code/terraform-0.12-examples)
+
+## 
+
+ 
 
