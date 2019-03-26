@@ -4,6 +4,7 @@
 * [Introduction](introduction/README.md)
   * [Infrastructure As Code](introduction/infrastructure-as-code.md)
   * [What is Terraform](introduction/what-is-terraform.md)
+* [Installing Terraform](installing-terraform.md)
 * [Terraform configuration](terraform-configuration/README.md)
   * [Create Azure Service Principal](terraform-configuration/create-azure-service-principal.md)
 * [Modules](modules/README.md)
